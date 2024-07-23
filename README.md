@@ -9,7 +9,6 @@ Welcome to the Weather Data Analysis project! This repository contains a Jupyter
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -29,7 +28,7 @@ To run the notebook and perform the analysis, you'll need to have Python and Jup
 
 1. Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/weather-data-analysis](https://github.com/Soniya-krishikka/Data-Analysis-on-Weather-Datase).git
+    git clone https://github.com/yourusername/weather-data-analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
